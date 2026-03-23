@@ -34,6 +34,16 @@ The content is updated weekly as new topics are covered.
 
 ---
 
+### 🔹 Practical 04 – Member Functions in ORDB
+- Introduces member functions (methods) in Object-Relational Databases
+- Demonstrates how to combine data and behavior inside object types
+- Defines functions inside object types using CREATE TYPE (declaration)
+- Implements logic using CREATE TYPE BODY (definition)
+- Uses ALTER TYPE to add new member functions to existing types
+- Applies CASCADE to update dependent objects automatically
+
+---
+
 ## 🛠️ Technologies
 - Oracle Database
 - SQL / SQL*Plus
