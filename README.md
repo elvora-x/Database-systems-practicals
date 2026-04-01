@@ -44,6 +44,28 @@ The content is updated weekly as new topics are covered.
 
 ---
 
+### 🔹 Practical 05 – PL/SQL Summary
+- Introduction to PL/SQL (Procedural Language/SQL)
+- Understanding PL/SQL block structure (DECLARE, BEGIN, END)
+- Declaring variables using %TYPE
+- Retrieving data using SELECT INTO
+- Displaying output using DBMS_OUTPUT.PUT_LINE
+- Using IF – ELSIF – ELSE for decision making
+- Implementing loops:
+    FOR LOOP
+    WHILE LOOP
+- Generating patterns using loops
+- Updating records using FOR LOOP (implicit cursor)
+- Using explicit cursor:
+    CURSOR
+    OPEN
+    FETCH
+    CLOSE
+- Updating rows using WHERE CURRENT OF
+- Applying conditions based on dates
+- Saving changes using COMMIT
+
+---
 ## 🛠️ Technologies
 - Oracle Database
 - SQL / SQL*Plus
